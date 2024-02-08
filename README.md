@@ -47,6 +47,13 @@
 <br/>
 ![An image of @kapoortushar's Holopin badges](https://holopin.me/kapoortushar)
 <hr/>
+
+**Connect with me:**
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kapoor-6a0876124/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TusharK43747465)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkapoor743@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tusharkapoor743/)
 <!--
 **Kapoor-Tushar/Kapoor-Tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
