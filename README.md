@@ -39,6 +39,15 @@
 <br/>
 <hr/>
 
+**Projects:**
+<br/>
+***HTML & CSS:*** [Tribute Page](https://github.com/Kapoor-Tushar/Tribute-Page), [Portfolio](https://github.com/Kapoor-Tushar/Portfolio)
+<br/>
+***Vanilla JavaScript:*** [30-Days of Code in JavaScript](https://github.com/Kapoor-Tushar/30-Days_Of_Code-JavaScript)
+<br/>
+***Node.js, Express.js & MongoDB:*** [Login-Singup API](), [RESTful API](https://github.com/Kapoor-Tushar/Node-RESTful-Api)
+<hr/>
+
 **Stats:**
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kapoor-Tushar)](https://git.io/streak-stats)
