@@ -39,13 +39,16 @@
 <br/>
 <hr/>
 
-**Projects:**
+## Projects:
+***HTML & CSS:***  [Tribute Page](https://github.com/Kapoor-Tushar/Tribute-Page), [Portfolio](https://github.com/Kapoor-Tushar/Portfolio)
 <br/>
-***HTML & CSS:*** [Tribute Page](https://github.com/Kapoor-Tushar/Tribute-Page), [Portfolio](https://github.com/Kapoor-Tushar/Portfolio)
+***Vanilla JavaScript:***  [30 Small Projects in JavaScript](https://github.com/Kapoor-Tushar/30-Days_Of_Code-JavaScript)
 <br/>
-***Vanilla JavaScript:*** [30-Days of Code in JavaScript](https://github.com/Kapoor-Tushar/30-Days_Of_Code-JavaScript)
+***Node.js, Express.js & MongoDB:***  [Login-Singup API](https://github.com/Kapoor-Tushar/Login-Signup-API), [RESTful API](https://github.com/Kapoor-Tushar/Node-RESTful-Api)
 <br/>
-***Node.js, Express.js & MongoDB:*** [Login-Singup API](), [RESTful API](https://github.com/Kapoor-Tushar/Node-RESTful-Api)
+***Fullstack Apps using EJS,CSS,Js,Node,Express,MongoDb:***  [HungryHub(Food Delivery App)](https://github.com/Kapoor-Tushar/HungryHub), [Vehicle Rrouting System using Genetic Algorithm](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm)
+<br/>
+***Python:***  [Simple Games using Pyhton](https://github.com/Kapoor-Tushar/Python-Programs)
 <hr/>
 
 **Stats:**
