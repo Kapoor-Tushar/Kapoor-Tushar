@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tushar Kapoor
 
-### Software/WebDev/AI Engineer
+### Software/WebDev/Data Engineer
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 - 💬 Ask me about **Web Development Technologies**
@@ -34,6 +34,13 @@
 <br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Proceesing Engines**
+<br/>
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kapoor-Tushar&show_icons=true&theme=transparent)](https://github.com/Kapoor-Tushar/github-readme-stats)
 <br/>
