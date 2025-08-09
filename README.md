@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tushar Kapoor
 
-### Software/WebDev/Data Engineer
+### AI/ML & Data Engineer/Software/WebDev
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 - 💬 Ask me about **Web Development Technologies**
